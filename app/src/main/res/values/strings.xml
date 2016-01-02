@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Choose an action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="button_open_web_page">Open Course Web Page</string>
+    <string name="button_open_contacts">Open Contacts</string>
+    <string name="button_open_dialer">Open Dialer</string>
+    <string name="button_search_google">Search Google</string>
+    <string name="button_voice_command">Start Voice Command</string>
+
+    <string name="open_web_page_fail">No browser available</string>
+    <string name="open_contacts_fail">No contacts available</string>
+    <string name="open_dialer_fail">No dialer available</string>
+    <string name="search_google_fail">No browser available</string>
+    <string name="search_google_string_encoding_fail">Cannot encode the keywords</string>
+    <string name="voice_command_fail">No voice command app available</string>
+</resources>
