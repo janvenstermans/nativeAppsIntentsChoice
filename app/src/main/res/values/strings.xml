@@ -7,6 +7,9 @@
     <string name="button_open_contacts">Open Contacts</string>
     <string name="button_open_dialer">Open Dialer</string>
     <string name="button_search_google">Search Google</string>
+    <string name="search_google_dialog_title">Search Google</string>
+    <string name="search_google_dialog_message">Enter keywords</string>
+    <string name="search_google_dialog_button">Search</string>
     <string name="button_voice_command">Start Voice Command</string>
 
     <string name="open_web_page_fail">No browser available</string>
